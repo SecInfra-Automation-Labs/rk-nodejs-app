@@ -1,0 +1,8 @@
+{
+  "name": "nodejsapp",
+  "version": "1.0.0",
+  "description": "Node.js + MySQL demo app",
+  "main": "app.js",
+  "scripts": { "start": "node app.js" },
+  "dependencies": { "express": "^4.18.2", "mysql2": "^3.9.0" }
+}
